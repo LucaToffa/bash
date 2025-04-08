@@ -8,4 +8,10 @@ Bash scripts for my personal use, note that these scripts are not intended for p
 
     A script to assign to a shortcut to split the screen into 3 windows.
   
-    requires `wmctrl` and `dmenu` to be installed.
+#### requirments: 
+
+`wmctrl` and `dmenu`
+
+#### usage: 
+
+manually set MAIN_WIDTH and HEIGHT, bind the script to a shortcut
